@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: 'Task zero'
+ * Description: 'Task three'
  *
  * Return: Always 0 (Success)
  */
