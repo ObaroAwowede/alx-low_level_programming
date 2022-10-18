@@ -4,7 +4,7 @@
  * jack_bauer - prints every minute of a day
  *
  * Description: prints minutes
- * 
+ *
  * Return: Always 0.
  */
 
