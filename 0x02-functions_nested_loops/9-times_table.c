@@ -11,7 +11,7 @@ void times_table(void)
 	int columns;
 	int product;
 
-	for (rows = 0; rows <= 9; row++)
+	for (rows = 0; rows <= 9; rows++)
 	{
 		for (columns = 0; columns <= 9; columns++)
 		{
